@@ -1,6 +1,5 @@
 # Matchlist
-https://github.com/user-attachments/assets/9744983e-0cf9-4d55-811d-4399b731682b
-
+https://github.com/user-attachments/assets/bdd89a19-b703-4090-b130-3b6bd7266e3f
 > A multilingual CS2 esports match tracker built to help players follow their favorite teams and never miss their next match.
 
 ---
